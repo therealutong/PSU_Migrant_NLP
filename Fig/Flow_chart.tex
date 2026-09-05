@@ -1,0 +1,123 @@
+\begin{figure}[!htb]
+\centering
+
+\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}[
+    node distance=0.5cm and 1.1cm,
+    terminal/.style={
+        rectangle,
+        rounded corners=10pt,
+        draw=black,
+        thick,
+        text width=5.2cm,
+        minimum height=0.8cm,
+        align=center,
+        font=\scriptsize,
+        fill=gray!10,
+        inner sep=5pt
+    },
+    data/.style={
+        trapezium,
+        trapezium left angle=70,
+        trapezium right angle=110,
+        draw=black,
+        thick,
+        text width=4.6cm,
+        minimum height=1cm,
+        align=center,
+        font=\scriptsize,
+        fill=gray!8,
+        inner sep=6pt
+    },
+    dataS/.style={
+        trapezium,
+        trapezium left angle=70,
+        trapezium right angle=110,
+        draw=black,
+        thick,
+        text width=3.4cm,
+        minimum height=1cm,
+        align=center,
+        font=\scriptsize,
+        fill=gray!8,
+        inner sep=6pt
+    },
+    note/.style={
+        rectangle,
+        rounded corners,
+        draw=black,
+        thick,
+        dashed,
+        text width=4.0cm,
+        minimum height=1.1cm,
+        align=center,
+        font=\scriptsize,
+        fill=gray!18,
+        inner sep=5pt
+    },
+    arr/.style={-{Stealth[length=2mm]}, thick},
+    darr/.style={-{Stealth[length=2mm]}, thick, dashed},
+    lbl/.style={font=\tiny, align=center, text width=4.2cm},
+]
+
+% nodes
+\node[terminal] (transcript) {180 interview transcripts};
+
+\node[data, below=1.1cm of transcript] (turns)
+    {Participant-turn transcripts};
+
+\node[dataS, left=1.0cm of turns, yshift=-0.3cm] (spec)
+    {Distress domains, conditions, and link rule (defined in advance)};
+
+\node[data, below=1.3cm of turns] (candidates)
+    {Candidate passages};
+
+\node[data, below=1.3cm of candidates] (coded)
+    {Coded passages: distress / condition / explicit-link judgments};
+
+\node[note, right=0.6cm of coded] (checks)
+    {Checked by: later recoding,
+    review of transcripts with no flagged passages};
+
+\node[terminal, below=1.3cm of coded, fill=gray!20] (final)
+    {Three participant-level datasets: distress raised,
+    conditions raised, confirmed links};
+
+% arrows
+\draw[arr] (transcript) --
+    node[lbl, right] {split into participant turns}
+    (turns);
+
+\draw[arr] (turns) --
+    node[lbl, right] {
+        scanned by two independent automated text-matching methods,
+        flagged broadly; condition--distress co-occurrences and
+        causal phrases (e.g.\ ``because'') also flagged
+    }
+    (candidates);
+
+\draw[arr] (spec) -- (candidates);
+
+\draw[arr] (candidates) --
+    node[lbl, right] {
+        read and judged by a human coder,
+        blind to participant traits, in random order
+    }
+    (coded);
+
+\draw[darr] (coded) -- (checks);
+
+\draw[arr] (coded) --
+    node[lbl, right] {
+        combined with participant characteristics
+        (visa category, gender, age, etc.)
+    }
+    (final);
+
+\end{tikzpicture}%
+}
+
+\caption{Coding Flow Chart.}
+\label{fig:flow_chart}
+
+\end{figure}

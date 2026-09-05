@@ -1,0 +1,21 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'paa2027.blg'
+[29] biber-darwin:340> INFO - === Sat Sep  5, 2026, 13:36:13
+[37] Biber.pm:419> INFO - Reading 'paa2027.bcf'
+[73] Biber.pm:979> INFO - Found 19 citekeys in bib section 0
+[83] Biber.pm:4419> INFO - Processing section 0
+[87] Biber.pm:4610> INFO - Looking for bibtex file 'NLP_immigrantmentalhealth.bib' for section 0
+[91] bibtex.pm:1713> INFO - LaTeX decoding ...
+[130] bibtex.pm:1519> INFO - Found BibTeX data source 'NLP_immigrantmentalhealth.bib'
+[202] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[202] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[202] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[202] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[223] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[223] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[223] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[223] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[235] bbl.pm:660> INFO - Writing 'paa2027.bbl' with encoding 'UTF-8'
+[247] bbl.pm:763> INFO - Output to paa2027.bbl
+[248] Biber.pm:131> WARN - legacy year field '2024--2025' in entry 'thronsonDerivativeDilemmaGendered2024' is not an integer - this will probably not sort properly.
+[248] Biber.pm:133> INFO - WARNINGS: 1
