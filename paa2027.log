@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.26)  5 SEP 2026 13:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.26)  5 SEP 2026 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**paa2027
+**paa2027.tex
 (./paa2027.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
@@ -872,24 +872,24 @@ File: tikzlibraryfit.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (./paa2027.aux)
 \openout1 = `paa2027.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -947,7 +947,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 28.
 
 (./paa2027.out) (./paa2027.out)
 \@outlinefile=\write5
@@ -989,20 +989,181 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'paa2027.bbl' found.
 
 (./paa2027.bbl)
-Package biblatex Info: Reference section=0 on input line 30.
-Package biblatex Info: Reference segment=0 on input line 30.
+Package biblatex Info: Reference section=0 on input line 28.
+Package biblatex Info: Reference segment=0 on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 33.
+(Font)              <14.4> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 33.
+(Font)              <7> on input line 31.
 
 
 LaTeX Warning: No \author given.
 
+
+LaTeX Warning: Citation 'hamiltonLegalStatusDeportation2023' on page 1 undefine
+d on input line 55.
+
+
+LaTeX Warning: Citation 'newnhamMentalHealthEffects2019' on page 1 undefined on
+ input line 55.
+
+
+LaTeX Warning: Citation 'menjivarLiminalLegalitySalvadoran2006' on page 1 undef
+ined on input line 59.
+
+
+LaTeX Warning: Citation 'abregoIncompleteInclusionLegal2015' on page 1 undefine
+d on input line 59.
+
+
+LaTeX Warning: Citation 'dueItsDamoclesSword2026' on page 1 undefined on input 
+line 59.
+
+
+LaTeX Warning: Citation 'StudentsEmploymentUSCIS2025' on page 1 undefined on in
+put line 62.
+
+
+LaTeX Warning: Citation 'WorkingUnitedStates2025' on page 1 undefined on input 
+line 62.
+
+
+LaTeX Warning: Citation 'USCISFilingTrends' on page 1 undefined on input line 6
+4.
+
+
+LaTeX Warning: Citation 'H1BCapSeason2026' on page 1 undefined on input line 64
+.
+
+
+LaTeX Warning: Citation 'jacobsPathwaysPermanenceLegal2019' on page 1 undefined
+ on input line 64.
+
+
+Overfull \hbox (105.59668pt too wide) in paragraph at lines 53--67
+\OT1/cmr/m/n/12 tral mech-a-nism of dis-tress ([]; []).
+ []
+
+
+Overfull \hbox (162.77765pt too wide) in paragraph at lines 53--67
+\OT1/cmr/m/n/12 ([]; []; []).
+ []
+
+
+Overfull \hbox (111.20348pt too wide) in paragraph at lines 53--67
+\OT1/cmr/m/n/12 qual-i-fy-ing em-ploy-ment and em-ployer spon-sor-ship, or a sp
+ouse's le-gal sta-tus ([];
+ []
+
+
+Overfull \hbox (9.22766pt too wide) in paragraph at lines 53--67
+\OT1/cmr/m/n/12 ([]; []; []).
+ []
+
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./Table/Table1_Demographics.tex
+
+LaTeX Warning: Citation 'nickersonChangeVisaStatus2011' on page 2 undefined on 
+input line 72.
+
+
+LaTeX Warning: Citation 'momartinComparisonMentalHealth2006' on page 2 undefine
+d on input line 72.
+
+
+Overfull \hbox (29.81837pt too wide) in paragraph at lines 69--77
+\OT1/cmr/m/n/12 symp-toms ([]; []).
+ []
+
+
+LaTeX Warning: Citation 'yangOvereducatedUnderpaidCharacteristics2026' on page 
+2 undefined on input line 81.
+
+
+LaTeX Warning: Citation 'StudentsEmploymentUSCIS2025' on page 2 undefined on in
+put line 83.
+
+
+LaTeX Warning: Citation 'WorkingUnitedStates2025' on page 2 undefined on input 
+line 83.
+
+
+LaTeX Warning: Citation 'parkTransitionLegalStatus2025' on page 2 undefined on 
+input line 85.
+
+
+LaTeX Warning: Citation 'bakhshalizadehImpactF2Visa2025' on page 2 undefined on
+ input line 85.
+
+
+LaTeX Warning: Citation 'thronsonDerivativeDilemmaGendered2024' on page 2 undef
+ined on input line 85.
+
+
+Overfull \hbox (42.36253pt too wide) in paragraph at lines 78--86
+\OT1/cmr/m/n/12 F-2 and H-4 sta-tus on the le-gal sta-tus of a pri-mary visa ho
+lder ([];
+ []
+
+
+Overfull \hbox (5.96118pt too wide) in paragraph at lines 78--86
+\OT1/cmr/m/n/12 term settlement([]; [];
+ []
+
+
+LaTeX Warning: Citation 'lynchInternationalStudentTrauma2024' on page 2 undefin
+ed on input line 92.
+
+
+LaTeX Warning: Citation 'chenSupportingInternationalStudents2024' on page 2 und
+efined on input line 92.
+
+
+LaTeX Warning: Citation 'parkImpactChangingNonimmigrant2022' on page 2 undefine
+d on input line 92.
+
+
+LaTeX Warning: Citation 'chaudhuriHealthWellbeingHighly' on page 2 undefined on
+ input line 92.
+
+
+LaTeX Warning: Citation 'prasathMarriedAsianIndians2023' on page 2 undefined on
+ input line 92.
+
+
+Overfull \hbox (25.16486pt too wide) in paragraph at lines 87--96
+[]\OT1/cmr/m/n/12 ; [];
+ []
+
+
+Overfull \hbox (10.8025pt too wide) in paragraph at lines 87--96
+[]\OT1/cmr/m/n/12 ; []). Be-cause these
+ []
+
+[2]
+
+LaTeX Warning: Citation 'zavodnyNFAPPOLICYBRIEF' on page 3 undefined on input l
+ine 98.
+
+
+LaTeX Warning: Citation 'siddiqiBuildingInvisibleWall2019' on page 3 undefined 
+on input line 99.
+
+
+LaTeX Warning: Citation 'bordoloiAmStandingStill2015' on page 3 undefined on in
+put line 99.
+
+
+LaTeX Warning: Citation 'bakhshalizadehImpactF2Visa2025' on page 3 undefined on
+ input line 99.
+
+
+Overfull \hbox (90.59763pt too wide) in paragraph at lines 97--103
+\OT1/cmr/m/n/12 with gen-der and house-hold po-si-tion ([]; [];
+ []
+
+(./Table/Table1_Demographics.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1014,38 +1175,50 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.129 
+l.132 
       ] (./Fig/Flow_chart.tex) [5
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.148 
-      ] [6] [7] [8] (./paa2027.aux)
+l.151 
+      ]
+
+LaTeX Warning: Empty bibliography on input line 173.
+
+[6] (./paa2027.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `paa2027.out' has not changed.
 (rerunfilecheck)             Checksum: A66051279D9F0018A80EC153FB4B5ABB;391.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                paa2027
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'paa2027.run.xml'.
 \openout1 = `paa2027.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29509 strings out of 476025
- 578236 string characters out of 5790016
+ 29281 strings out of 476025
+ 569766 string characters out of 5790016
  1867388 words of memory out of 5000000
- 49515 multiletter control sequences out of 15000+600000
+ 49308 multiletter control sequences out of 15000+600000
  517503 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,10n,89p,2766b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,10n,89p,1196b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
 sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/
 local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
 al/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on paa2027.pdf (8 pages, 120851 bytes).
+Output written on paa2027.pdf (6 pages, 109947 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
- 138 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 
